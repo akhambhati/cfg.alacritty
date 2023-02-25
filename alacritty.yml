@@ -22,7 +22,7 @@ window:
 
   decorations: none
 
-  opacity: 0.99
+  opacity: 0.95
 
   startup_mode: SimpleFullscreen
 
